@@ -1,0 +1,17 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=36
+
+This is result of this script.
+If you modified _vimrc, you'll get this with ALT-B.
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+private String name;
+
+public String getName()
+{
+return this.name;
+}
+public void setName(String name)
+{
+this.name = name;
+}
